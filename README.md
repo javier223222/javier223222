@@ -41,9 +41,9 @@ I also integrate **Machine Learning** for **anomaly detection**, **predictive an
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔹 [Teching – Soft Skills Practice Service](https://cundapi.teching.tech/)  
+###  [Teching – Soft Skills Practice Service](https://cundapi.teching.tech/)  
 **Backend Developer & MLE – FastAPI, Python, Node.js**  
 - Designed and implemented **microservices architecture** under DDD.  
 - Developed **Machine Learning pipelines** for anomaly detection (91.2% precision) and churn prediction (86.8% accuracy).  
@@ -51,14 +51,14 @@ I also integrate **Machine Learning** for **anomaly detection**, **predictive an
 
 ---
 
-### 🔹 Hubbie Platform – Restaurant ERP  
+###  Hubbie Platform – Restaurant ERP  
 **Backend Developer – Go + Gin**  
 - Built modules for **inventory, menu, and order management**.  
 - Optimized backend performance under high production loads.  
 
 ---
 
-### 🔹 IoT Solar Panel Monitoring System  
+###  IoT Solar Panel Monitoring System  
 **Freelance – Node.js**  
 - Created APIs for real-time energy monitoring and anomaly detection.  
 - Implemented **JWT authentication** and **WebSocket streaming**.  
