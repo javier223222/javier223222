@@ -1,6 +1,7 @@
-<div>
+
 <h1 style="text-align:center;" > Hi 👋, I'm Javier Antonio Cundapi Toledo</h1>
-</div>
+---
+
 **Backend Developer · Machine Learning Enthusiast · Cloud & DevOps**
 
 ---
