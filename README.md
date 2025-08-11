@@ -1,4 +1,4 @@
-# Hi 👋, I'm Javier Antonio Cundapi Toledo
+<h1 style="text-align:center;" > Hi 👋, I'm Javier Antonio Cundapi Toledo</h1>
 
 **Backend Developer · Machine Learning Enthusiast · Cloud & DevOps**
 
@@ -20,66 +20,6 @@
 ---
 
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"> Teching – Soft Skills Practice Service</h3>
-<p align="center">
-<a href="https://cundapi.teching.tech/">
-<img src="https://via.placeholder.com/400x200.png?text=Teching+Project+Preview" alt="Teching Project" />
-</a>
-</p>
-<p>
-AI-powered platform for improving employability skills.
-<ul>
-<li>Microservices architecture (Node.js, FastAPI).</li>
-<li>ML pipelines for anomaly detection (91.2%) and churn prediction (86.8%).</li>
-<li>Deployed with Docker, Kong API Gateway, and RabbitMQ.</li>
-</ul>
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center"> Hubbie Platform – Restaurant ERP</h3>
-<p align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Hubbie+ERP+Preview" alt="Hubbie ERP Project" />
-</p>
-<p>
-Backend system for restaurant management.
-<ul>
-<li>Modules for inventory, menu, and order management in Go + Gin.</li>
-<li>RESTful APIs with clean architecture.</li>
-<li>Optimized for high performance in production.</li>
-</ul>
-</p>
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"> IoT Solar Panel Monitoring System</h3>
-<p align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Solar+Panel+Monitoring" alt="IoT Solar Project" />
-</p>
-<p>
-Real-time solar panel monitoring dashboard.
-<ul>
-<li>Backend with Node.js and WebSockets for live updates.</li>
-<li>JWT authentication and MySQL data storage.</li>
-<li>Secure APIs for data ingestion and anomaly detection.</li>
-</ul>
-</p>
-</td>
-</tr>
-</table>
-
----
 
 ### 📜 Certifications
 - AWS Academy Cloud Security Foundations  
