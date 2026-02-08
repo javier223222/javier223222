@@ -23,16 +23,6 @@
 ---
 
 
-
-### 📜 Certifications
-- AWS Academy Cloud Security Foundations  
-- Azure AI Engineer Associate Bootcamp (CodigoFacilito, 2025)  
-- Google UX Design Specialization (2024)  
-- FreeCodeCamp – Front End Development Libraries, JavaScript Algorithms, Responsive Web Design  
-- Platzi – Database Fundamentals, Structured Programming, OOP, Networks, Software Engineering Fundamentals  
-
----
-
 ### 🏆 Achievements
 - 🥇 1st Place – Talent Land Hackathon (2025)  
 - 🥇 1st Place – International MegaHackathon Blockchain & Web3 (2024)  
