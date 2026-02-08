@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Javier Antonio Cundapi Toledo</h1>
 
 <p align="center">
-<strong>Software engineer · Backend Developer · Machine Learning Enthusiast · Cloud & DevOps</strong>
+<strong>Software engineer</strong>
 </p>
 
 ---
